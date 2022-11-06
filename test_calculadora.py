@@ -10,5 +10,17 @@ def Suma(salary,particulares):
 
 
 particulares = float(input("Ingrese el segundo valor a sumar: "))
-print("La suma es: ", Suma(salary,particulares))
+print("La suma es: ", salary+particulares)
+
+a=float(input("Enter the total amount: "))
+b=0.4
+c=a*b
+
+
+print("The amount to be invested is ", c) 
+
+
+
+ 
+
 
